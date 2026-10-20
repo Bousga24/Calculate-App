@@ -28,7 +28,7 @@ int main()
     cout << "Multiplication: 10 * 5 = " << Multiply(10, 5) << endl;
     cout << "Division: 10 / 5 = " << Divide(10, 5) << endl;
 
-	cout << "Press any key to exit..." << endl;
+	cout << "Goodbye!" << endl;
 	system("pause>0");
     return 0;
 }
