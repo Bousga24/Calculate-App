@@ -24,6 +24,7 @@ int Multiply(int number1, int number2)
 int main()
 {
     cout << "Hi" << endl;
+    cout << "Calculator Project" << endl;
 
     cout << "Addition: 10 + 5 = " << Add(10, 5) << endl;
     cout << "Subtraction: 10 - 5 = " << Subtract(10, 5) << endl;
